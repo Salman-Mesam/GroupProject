@@ -1,0 +1,25 @@
+FEATURE com_yakindu_sct_standard
+{
+VENDOR=ITEMIS VERSION=20.9 START=2019-09-06 END=2020-09-06 ISSUED=2019-09-06
+LICENSEE="Daniel Varro, daniel.varro@mcgill.ca"
+COMMENT="YAKINDU SCT Standard Edition (Academic) for Daniel Varro" SN="2F8F-B692-A64B-B487"
+KEY=TQ9cMOFioDeGcMiGkAM97n]x]TOrf3feZqOi2X8KdFL9QmdoG]erVjyxIDIOBnOEcrMNhlh9XtOMLvtAeIGaWdjfas]uAXCMA6y2 \
+	DlXZcgEk9GXf5ezdUCcql8BCjgHmtHEuZeMjbc9QaNMJ2yqg7kh7PKhCAPYXkT9uAxNHJJ4entcL3fwfaZMrQpXlH3EsIvDeEclg \
+	4CgiRDgwjz87RRQjVdVd2wezGRCnRvZXqLPmE6rt7r49QE03B[uH[ylXL5ulaUGGhtBxxlpalm]sBLD8BhH1g[JqR4YZq0UEbHeJ \
+	cPKC6GUFy8kAOTM]PdnxXTaMq0bHVgUTPW1EXmgngoPjMu5eZpwM9[vkA[V5V]r]4zbxbpvRAYMVDimzynEaKBe6CS3bTnPGr00B \
+	T38F1a9M4P2mOTIBVzdIZLVHGnFEbMA920pGMydQKN9Fe07RD[Qf0xYUO7Wdz3cruNVoviWGpqOUwJTyDkyHH3[950bETSd77y8b \
+	yP7*
+}
+
+FEATURE com_yakindu_sct_professional
+{
+VENDOR=ITEMIS VERSION=20.9 START=2019-09-06 END=2020-09-06 ISSUED=2019-09-06
+LICENSEE="Daniel Varro, daniel.varro@mcgill.ca"
+COMMENT="YAKINDU SCT Professional Edition (Academic) for Daniel Varro" SN="4719-386D-2E59-68F9"
+KEY=y7bsQjGp7oJfwe9Bl2s]vNMW]hou4JaNvNvjm2c0EuaoDzG91S]m]YT6TIk4anDVOGM7SLzERCfc9mXeVyBSd1xdcM0mDlXf7yPs \
+	MfGIJI]jZzTAsROTJdaLfGQZGm]NlHWyIhal[6pIJd16if]3KyZcNB21yQKpuuvZa[BuxZfpHxF[nz2ETTFNflxWp1dEyJNVFReL \
+	TSP52[6mMMuZQNDyD]vyXNP67Q9uOI]UP4dl71w2hjnLVeKG5AgFKmvEqLECCATt0dBz]kJQ[JWwj[17m1C[mx0SrWdfr8MWhkRG \
+	fY0JUChPF7Im7i24smADJ8Vr7iYKx[6gMonRZC3FmYCy1]ykHfOBWeKMszNg9cFJllrOuCN1Y[NiBP6StGWZy4LjmMdWbebgv]jh \
+	MdzsXUaM9eFIs1Xnzw4wpbp9nuV9zX8CxMDGfrp7S]cyXu7gbgenHpSJv1U[LgbzD2yGf7Olpczim]TAmsOIgz7EvEXd]OplwJwQ \
+	LNmT
+}
